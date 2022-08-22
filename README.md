@@ -2,7 +2,7 @@
 
 I'm a Full-Stack Developer working in **Treviglio**, **Italy**.
 
-- 🏢 I'm currently working at **Purelab S.r.l.**
+- 🏢 I'm currently working at **[Purelab S.r.l.](https://www.purelab.it/)**
 - ⚙️ I use daily: `.cs`, `.php`, `.js`, `.cshtml`, `.html`, `.scss`, `.css`, `.json`, `.svg`
 - 🌱 I'm currently improving my skills
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/spinelli-fabio/) or [fabio@spinelli.dev](mailto:fabio@spinelli.dev)
